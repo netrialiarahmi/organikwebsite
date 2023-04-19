@@ -1,0 +1,7 @@
+* text=auto
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.scss linguist-vendored
+*.js linguist-vendored
+*.rb linguist-language=PHP
+CHANGELOG.md export-ignore
