@@ -65,15 +65,3 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-<img src="https://github.com/RifkiCS29/laravel-personalblog/blob/master/public/img/Screenshot_2020-08-08%20Web%20Personal%20Blog.png" width="400">&nbsp;&nbsp;
-<img src="https://github.com/RifkiCS29/laravel-personalblog/blob/master/public/img/Screenshot_2020-08-08%20Kotlin%20in%202020.png" width="400">&nbsp;&nbsp;
-<img src="https://github.com/RifkiCS29/laravel-personalblog/blob/master/public/img/Screenshot_2020-08-08%20Dashboard.png">
-<img src="https://github.com/RifkiCS29/laravel-personalblog/blob/master/public/img/Screenshot_2020-08-08%20List%20Kategori.png">
-<img src="https://github.com/RifkiCS29/laravel-personalblog/blob/master/public/img/Screenshot_2020-08-08%20List%20Artikel.png">
-<img src="https://github.com/RifkiCS29/laravel-personalblog/blob/master/public/img/Screenshot_2020-08-08%20List%20Comments.png">
-<img src="https://github.com/RifkiCS29/laravel-personalblog/blob/master/public/img/Screenshot_2020-08-08%20Edit%20Setting.png">
